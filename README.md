@@ -1,5 +1,5 @@
 # LI4
-Laboratórios de Informática IV
+Laboratórios de Informática IV - Grupo 10
 
 
 Benjamim Miranda Costa (a87985)
